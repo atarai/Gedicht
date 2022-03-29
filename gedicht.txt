@@ -6,6 +6,7 @@ Rot
 
 Grün
 Gelb
+Magenta
 Blau
 
 Sind alles tolle Farben.
